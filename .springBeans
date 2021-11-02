@@ -11,6 +11,7 @@
 		<config>src/main/resources/application_test.xml</config>
 		<config>src/main/resources/application_test02.xml</config>
 		<config>src/main/resources/homework.xml</config>
+		<config>src/main/resources/applicationCAR.xml</config>
 	</configs>
 	<autoconfigs>
 		<config>src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml</config>
